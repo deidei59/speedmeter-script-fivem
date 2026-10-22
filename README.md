@@ -1,3 +1,7 @@
+## 📸 Aperçu du Speedometer
+
+![Speedometer](preview.png)
+
 # 🚗  Speedometer | HUD Véhicule FiveM
 
  Speedometer est un compteur de vitesse moderne, minimaliste et optimisé pour FiveM. Conçu pour offrir une expérience de conduite immersive, il affiche les informations essentielles de votre véhicule en temps réel, tout en conservant une interface élégante et discrète.
