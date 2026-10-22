@@ -1,6 +1,6 @@
 ## 📸 Aperçu du Speedometer
 
-![Speedometer](preview.png)
+![Speedometer](speedmeter affiche script.png)
 
 # 🚗  Speedometer | HUD Véhicule FiveM
 
